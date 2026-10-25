@@ -1,0 +1,12 @@
+{
+  "background_color": "hsv(222, 79%, 100%)",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Diamond VPN",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Diamond",
+  "start_url": "/",
+  "theme_color": "#070b14",
+  "description": "Интерфейс Diamond VPN"
+}
